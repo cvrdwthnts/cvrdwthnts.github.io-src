@@ -11,6 +11,7 @@ PATH = 'content'
 TIMEZONE = 'Canada/Pacific'
 
 DEFAULT_LANG = 'en'
+THEME = "/Users/mark/pelican-themes/mnmlist"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
